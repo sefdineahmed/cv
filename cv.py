@@ -1,8 +1,5 @@
 import streamlit as st
-from PIL import Image
-from streamlit_extras.switch_page_button import switch_page
-from streamlit_extras.mention import mention
-from streamlit_extras.badges import badge
+from PIL import Image  # Pour ajouter une image de profil si souhaité
 
 # Configuration de la page
 st.set_page_config(
