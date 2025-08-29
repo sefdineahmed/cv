@@ -112,7 +112,7 @@ _Juil. 2019 – Sept. 2019, Moroni, Comores_
     <td align="center">
       <img src="dashboard/N3.png" alt="Dashboard N3" width="600"/>
       <br/>
-      <a href="dashboard/Sales_Dashboard.pbix.pbix" download>⬇️ Télécharger — Ventes</a>
+      <a href="dashboard/Sales_Dashboard.pbix" download>⬇️ Télécharger — Ventes</a>
     </td>
     <td align="center">
       <img src="dashboard/N4.png" alt="Dashboard N4" width="600"/>
