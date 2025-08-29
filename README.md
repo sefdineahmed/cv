@@ -105,7 +105,7 @@ _Juil. 2019 – Sept. 2019, Moroni, Comores_
     <td align="center">
       <img src="dashboard/N2.png" alt="Dashboard N2" width="600"/>
       <br/>
-      <a href="dashboard/Netflix analyst.pbix" download>⬇️ Télécharger — Netflix</a>
+      <a href="dashboard/Netflix analyst.pbix" download>⬇️ Télécharger — Ventes</a>
     </td>
   </tr>
   <tr>
@@ -117,7 +117,7 @@ _Juil. 2019 – Sept. 2019, Moroni, Comores_
     <td align="center">
       <img src="dashboard/N4.png" alt="Dashboard N4" width="600"/>
       <br/>
-      <a href="dashboard/Sales_Dashboard.pbix" download>⬇️ Télécharger — Ventes</a>
+      <a href="dashboard/Sales_Dashboard.pbix" download>⬇️ Télécharger — Netflix</a>
     </td>
   </tr>
 </table>
