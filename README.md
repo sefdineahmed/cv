@@ -100,24 +100,24 @@ _Juil. 2019 – Sept. 2019, Moroni, Comores_
     <td align="center">
       <img src="dashboard/N1.png" alt="Dashboard N1" width="600"/>
       <br/>
-      <a href="dashboard/Analyste Amazon Prime.pbix" download>⬇️ Télécharger — Amazon Prime</a>
+      <a href="dashboard/supermark.pbix" download>⬇️ Télécharger — supermark</a>
     </td>
     <td align="center">
       <img src="dashboard/N2.png" alt="Dashboard N2" width="600"/>
       <br/>
-      <a href="dashboard/Analyste Netflix.pbix" download>⬇️ Télécharger — Netflix</a>
+      <a href="dashboard/Netflix analyst.pbix" download>⬇️ Télécharger — Netflix</a>
     </td>
   </tr>
   <tr>
     <td align="center">
       <img src="dashboard/N3.png" alt="Dashboard N3" width="600"/>
       <br/>
-      <a href="dashboard/Tableau de bord des ventes.pbix" download>⬇️ Télécharger — Ventes</a>
+      <a href="dashboard/Sales_Dashboard.pbix.pbix" download>⬇️ Télécharger — Ventes</a>
     </td>
     <td align="center">
       <img src="dashboard/N4.png" alt="Dashboard N4" width="600"/>
       <br/>
-      <a href="dashboard/supermark.pbix" download>⬇️ Télécharger — Supermarché</a>
+      <a href="dashboard/Sales_Dashboard.pbix" download>⬇️ Télécharger — Ventes</a>
     </td>
   </tr>
 </table>
