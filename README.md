@@ -1,17 +1,22 @@
 # 👨‍💻 Portfolio — Ahmed SEFDINE
 
-<p align="center">
-  <img src="photo_id.jpeg" alt="Photo de profil — Ahmed Sefdine" width="200" style="border-radius:50%; box-shadow: 0 4px 12px rgba(0,0,0,0.12)"/>
-</p>
+<table>
+  <tr>
+    <td>
+      <img src="photo_id.jpeg" alt="Photo de profil — Ahmed Sefdine" width="200" style="border-radius:50%; box-shadow: 0 4px 12px rgba(0,0,0,0.12)"/>
+    </td>
+    <td style="padding-left:20px; vertical-align:top;">
+      <h1>Ahmed SEFDINE</h1>
+      <p><strong>Ingénieur Statisticien • Data Analyst • BI</strong></p>
+      <p>
+        📍 Liberté 6, Dakar, Sénégal<br/>
+        📞 +221 77 808 09 42<br/>
+        ✉️ <a href="mailto:ahmed.sefdine@uadb.edu.sn">ahmed.sefdine@uadb.edu.sn</a>
+      </p>
+    </td>
+  </tr>
+</table>
 
-<h1 align="center">Ahmed SEFDINE</h1>
-<p align="center"><strong>Ingénieur Statisticien • Data Analyst • BI</strong></p>
-
-<p align="center">
-  <span>📍 Liberté 6, Dakar, Sénégal</span> ·
-  <span>📞 +221 77 808 09 42</span> ·
-  <span>✉️ <a href="mailto:ahmed.sefdine@uadb.edu.sn">ahmed.sefdine@uadb.edu.sn</a></span>
-</p>
 
 ---
 
