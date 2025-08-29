@@ -111,7 +111,7 @@ _Juil. 2019 – Sept. 2019, Moroni, Comores_
       <p><strong>N3</strong><br/><small>Cartographie</small></p>
     </td>
     <td align="center">
-      <a href="dashboard/N4.png"><img src="dashboard/N4.png" alt="N4" width="5520" style="border-radius:8px; box-shadow:0 6px 18px rgba(0,0,0,0.10)"/></a>
+      <a href="dashboard/N4.png"><img src="dashboard/N4.png" alt="N4" width="520" style="border-radius:8px; box-shadow:0 6px 18px rgba(0,0,0,0.10)"/></a>
       <p><strong>N4</strong><br/><small>KPIs</small></p>
     </td>
   </tr>
