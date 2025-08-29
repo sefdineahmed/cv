@@ -1,4 +1,4 @@
-# 👨‍💻 Portfolio — Ahmed SEFDINE
+# 👨‍💻 Portfolio — AHMED SEFDINE
 
 <table>
   <tr>
@@ -6,7 +6,7 @@
       <img src="photo_id.jpeg" alt="Photo de profil — Ahmed Sefdine" width="200" style="border-radius:50%; box-shadow: 0 4px 12px rgba(0,0,0,0.12)"/>
     </td>
     <td style="padding-left:20px; vertical-align:top;">
-      <h1>Ahmed SEFDINE</h1>
+      <h1>AHMED SEFDINE</h1>
       <p><strong>Ingénieur Statisticien • Data Analyst • BI</strong></p>
       <p>
         📍 Liberté 6, Dakar, Sénégal<br/>
