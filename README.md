@@ -91,28 +91,6 @@ _Juil. 2019 – Sept. 2019, Moroni, Comores_
   `gaoussou.camara@uadb.edu.sn` · `+221 77 570 88 07`
 
 ---
-
-## Dashboard — Aperçus visuels
-
-<table align="center">
-  <tr>
-    <td align="center">
-      <a href="dashboard/N1.png"><img src="dashboard/N1.png" width="520" style="border-radius:8px; box-shadow:0 6px 18px rgba(0,0,0,0.10)"/></a>
-    </td>
-    <td align="center">
-      <a href="dashboard/N2.png"><img src="dashboard/N2.png" width="520" style="border-radius:8px; box-shadow:0 6px 18px rgba(0,0,0,0.10)"/></a>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <a href="dashboard/N3.png"><img src="dashboard/N3.png" width="520" style="border-radius:8px; box-shadow:0 6px 18px rgba(0,0,0,0.10)"/></a>
-    </td>
-    <td align="center">
-      <a href="dashboard/N4.png"><img src="dashboard/N4.png" width="520" style="border-radius:8px; box-shadow:0 6px 18px rgba(0,0,0,0.10)"/></a>
-    </td>
-  </tr>
-</table>
-
 # 📊 Dashboards interactifs
 
 > Cliquez sur une image pour la visualiser, ou sur le bouton **Télécharger** pour obtenir le fichier `.pbix`.
@@ -120,24 +98,24 @@ _Juil. 2019 – Sept. 2019, Moroni, Comores_
 <table align="center">
   <tr>
     <td align="center">
-      <img src="dashboard/N1.png" alt="Dashboard N1" width="300"/>
+      <img src="dashboard/N1.png" alt="Dashboard N1" width="600"/>
       <br/>
       <a href="dashboard/Analyste Amazon Prime.pbix" download>⬇️ Télécharger — Amazon Prime</a>
     </td>
     <td align="center">
-      <img src="dashboard/N2.png" alt="Dashboard N2" width="300"/>
+      <img src="dashboard/N2.png" alt="Dashboard N2" width="600"/>
       <br/>
       <a href="dashboard/Analyste Netflix.pbix" download>⬇️ Télécharger — Netflix</a>
     </td>
   </tr>
   <tr>
     <td align="center">
-      <img src="dashboard/N3.png" alt="Dashboard N3" width="300"/>
+      <img src="dashboard/N3.png" alt="Dashboard N3" width="600"/>
       <br/>
       <a href="dashboard/Tableau de bord des ventes.pbix" download>⬇️ Télécharger — Ventes</a>
     </td>
     <td align="center">
-      <img src="dashboard/N4.png" alt="Dashboard N4" width="300"/>
+      <img src="dashboard/N4.png" alt="Dashboard N4" width="600"/>
       <br/>
       <a href="dashboard/supermark.pbix" download>⬇️ Télécharger — Supermarché</a>
     </td>
