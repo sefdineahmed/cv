@@ -1,5 +1,3 @@
-# 👨‍💻 Portfolio — AHMED SEFDINE
-
 <table>
   <tr>
     <td width="220" valign="top">
