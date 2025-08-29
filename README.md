@@ -3,7 +3,7 @@
 <table>
   <tr>
     <td width="220" valign="top">
-      <img src="photo_id.jpeg" alt="Photo de profil — Ahmed Sefdine" width="200" style="border-radius:50%; box-shadow: 0 4px 12px rgba(0,0,0,0.12)"/>
+      <img src="dashboard/photo_id.jpeg" alt="Photo de profil — Ahmed Sefdine" width="200" style="border-radius:50%; box-shadow: 0 4px 12px rgba(0,0,0,0.12)"/>
     </td>
     <td valign="top" style="padding-left:20px;">
       <h2>AHMED SEFDINE</h2>
@@ -14,9 +14,15 @@
         ✉️ <a href="mailto:ahmed.sefdine@uadb.edu.sn">ahmed.sefdine@uadb.edu.sn</a><br/>
         📄 <a href="cv/CV-AHMED-SEFDINE.pdf" target="_blank">Télécharger le CV</a>
       </p>
+      <p>
+        🌐 <a href="https://github.com/sefdineahmed" target="_blank">GitHub</a> ·
+        <a href="https://www.linkedin.com/in/sefdineahmed/" target="_blank">LinkedIn</a> ·
+        <a href="https://shahidi-ai.streamlit.app/" target="_blank">App Streamlit</a>
+      </p>
     </td>
   </tr>
 </table>
+
 
 ---
 
