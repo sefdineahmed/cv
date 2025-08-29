@@ -3,7 +3,7 @@
 <table>
   <tr>
     <td width="220" valign="top">
-      <img src="dashboard/photo_id.jpeg" alt="Photo de profil — Ahmed Sefdine" width="200" style="border-radius:50%; box-shadow: 0 4px 12px rgba(0,0,0,0.12)"/>
+      <img src="photo_id.jpeg" alt="Photo de profil — Ahmed Sefdine" width="200" style="border-radius:50%; box-shadow: 0 4px 12px rgba(0,0,0,0.12)"/>
     </td>
     <td valign="top" style="padding-left:20px;">
       <h2>AHMED SEFDINE</h2>
