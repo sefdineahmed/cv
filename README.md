@@ -97,8 +97,7 @@ _Juil. 2019 – Sept. 2019, Moroni, Comores_
 <table align="center">
   <tr>
     <td align="center">
-      <a href="dashboard/N1.png"><img src="dashboard/N1.png" alt="N1" width="520" style="border-radius:8px; box-shadow:0 6px 18px rgba(0,0,0,0.10)"/></a>
-      <p><strong>N1</strong><br/><small>Vue synthétique</small></p>
+      <a href="dashboard/N1.png"><img src="dashboard/N1.png" width="520" style="border-radius:8px; box-shadow:0 6px 18px rgba(0,0,0,0.10)"/></a>
     </td>
     <td align="center">
       <a href="dashboard/N2.png"><img src="dashboard/N2.png" alt="N2" width="520" style="border-radius:8px; box-shadow:0 6px 18px rgba(0,0,0,0.10)"/></a>
