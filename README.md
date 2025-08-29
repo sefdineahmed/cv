@@ -87,29 +87,27 @@ _Juil. 2019 – Sept. 2019, Moroni, Comores_
 
 ---
 
-## 📂 Dashboard — Aperçus visuels
-
-> Les images suivantes sont des vignettes de mes dashboards / analyses. Clique sur chaque vignette pour ouvrir l’image en taille réelle.
+## Dashboard — Aperçus visuels
 
 <table align="center">
   <tr>
     <td align="center">
-      <a href="N1.png"><img src="N1.png" alt="Dashboard N1" width="320" style="border-radius:8px; box-shadow:0 6px 18px rgba(0,0,0,0.10)"/></a>
-      <p style="margin-top:8px; font-size:0.95em;"><strong>N1</strong><br/><small>Vue synthétique</small></p>
+      <a href="dashboard/N1.png"><img src="dashboard/N1.png" alt="N1" width="320" style="border-radius:8px; box-shadow:0 6px 18px rgba(0,0,0,0.10)"/></a>
+      <p><strong>N1</strong><br/><small>Vue synthétique</small></p>
     </td>
     <td align="center">
-      <a href="N2.png"><img src="N2.png" alt="Dashboard N2" width="320" style="border-radius:8px; box-shadow:0 6px 18px rgba(0,0,0,0.10)"/></a>
-      <p style="margin-top:8px; font-size:0.95em;"><strong>N2</strong><br/><small>Analyse temporelle</small></p>
+      <a href="dashboard/N2.png"><img src="dashboard/N2.png" alt="N2" width="320" style="border-radius:8px; box-shadow:0 6px 18px rgba(0,0,0,0.10)"/></a>
+      <p><strong>N2</strong><br/><small>Analyse temporelle</small></p>
     </td>
   </tr>
   <tr>
-    <td align="center" style="padding-top:18px;">
-      <a href="N3.png"><img src="N3.png" alt="Dashboard N3" width="320" style="border-radius:8px; box-shadow:0 6px 18px rgba(0,0,0,0.10)"/></a>
-      <p style="margin-top:8px; font-size:0.95em;"><strong>N3</strong><br/><small>Cartographie & géolocalisation</small></p>
+    <td align="center">
+      <a href="dashboard/N3.png"><img src="dashboard/N3.png" alt="N3" width="320" style="border-radius:8px; box-shadow:0 6px 18px rgba(0,0,0,0.10)"/></a>
+      <p><strong>N3</strong><br/><small>Cartographie</small></p>
     </td>
-    <td align="center" style="padding-top:18px;">
-      <a href="N4.png"><img src="N4.png" alt="Dashboard N4" width="320" style="border-radius:8px; box-shadow:0 6px 18px rgba(0,0,0,0.10)"/></a>
-      <p style="margin-top:8px; font-size:0.95em;"><strong>N4</strong><br/><small>KPIs & alerting</small></p>
+    <td align="center">
+      <a href="dashboard/N4.png"><img src="dashboard/N4.png" alt="N4" width="320" style="border-radius:8px; box-shadow:0 6px 18px rgba(0,0,0,0.10)"/></a>
+      <p><strong>N4</strong><br/><small>KPIs</small></p>
     </td>
   </tr>
 </table>
@@ -122,12 +120,3 @@ _Juil. 2019 – Sept. 2019, Moroni, Comores_
 - Sport et bien-être
 
 ---
-
-### Remarques techniques
-- Place `photo_id.jpeg`, `N1.png`, `N2.png`, `N3.png`, `N4.png` dans le **même dossier** que ce fichier `read.md` (ou ajuste les chemins si nécessaire).  
-- Les balises HTML sont utilisées pour garantir un rendu propre et centré sur la plupart des plateformes (GitHub, GitLab, Netlify CMS…).  
-- Si tu veux une version **PDF prête à l’impression** ou un **format CV européen (Europass)**, je peux la générer à partir de ces informations.
-
----
-
-*Ravi d’aider — dis-moi si tu veux un style différent (ton sombre / light, palette couleurs, polices) ou une version en PDF prête à imprimer.*
