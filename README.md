@@ -94,27 +94,16 @@ _Juil. 2019 – Sept. 2019, Moroni, Comores_
 
 ## Dashboard — Aperçus visuels
 
-<table align="center">
-  <tr>
-    <td align="center">
-      <a href="dashboard/N1.png"><img src="dashboard/N1.png" width="520" style="border-radius:8px; box-shadow:0 6px 18px rgba(0,0,0,0.10)"/></a>
-    </td>
-    <td align="center">
-      <a href="dashboard/N2.png"><img src="dashboard/N2.png" width="520" style="border-radius:8px; box-shadow:0 6px 18px rgba(0,0,0,0.10)"/></a>
-      
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <a href="dashboard/N3.png"><img src="dashboard/N3.png" width="520" style="border-radius:8px; box-shadow:0 6px 18px rgba(0,0,0,0.10)"/></a>
-      
-    </td>
-    <td align="center">
-      <a href="dashboard/N4.png"><img src="dashboard/N4.png" width="520" style="border-radius:8px; box-shadow:0 6px 18px rgba(0,0,0,0.10)"/></a>
-      
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <a href="N1.png"><img src="N1.png" alt="N1" width="320" style="border-radius:8px; box-shadow:0 6px 18px rgba(0,0,0,0.10)"/></a>
+  <a href="N2.png"><img src="N2.png" alt="N2" width="320" style="border-radius:8px; box-shadow:0 6px 18px rgba(0,0,0,0.10)"/></a>
+</p>
+
+<p align="center">
+  <a href="N3.png"><img src="N3.png" alt="N3" width="320" style="border-radius:8px; box-shadow:0 6px 18px rgba(0,0,0,0.10)"/></a>
+  <a href="N4.png"><img src="N4.png" alt="N4" width="320" style="border-radius:8px; box-shadow:0 6px 18px rgba(0,0,0,0.10)"/></a>
+</p>
+
 
 ---
 
