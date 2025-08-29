@@ -92,21 +92,21 @@ _Juil. 2019 – Sept. 2019, Moroni, Comores_
 <table align="center">
   <tr>
     <td align="center">
-      <a href="dashboard/N1.png"><img src="dashboard/N1.png" alt="N1" width="320" style="border-radius:8px; box-shadow:0 6px 18px rgba(0,0,0,0.10)"/></a>
+      <a href="dashboard/N1.png"><img src="dashboard/N1.png" alt="N1" width="520" style="border-radius:8px; box-shadow:0 6px 18px rgba(0,0,0,0.10)"/></a>
       <p><strong>N1</strong><br/><small>Vue synthétique</small></p>
     </td>
     <td align="center">
-      <a href="dashboard/N2.png"><img src="dashboard/N2.png" alt="N2" width="320" style="border-radius:8px; box-shadow:0 6px 18px rgba(0,0,0,0.10)"/></a>
+      <a href="dashboard/N2.png"><img src="dashboard/N2.png" alt="N2" width="520" style="border-radius:8px; box-shadow:0 6px 18px rgba(0,0,0,0.10)"/></a>
       <p><strong>N2</strong><br/><small>Analyse temporelle</small></p>
     </td>
   </tr>
   <tr>
     <td align="center">
-      <a href="dashboard/N3.png"><img src="dashboard/N3.png" alt="N3" width="320" style="border-radius:8px; box-shadow:0 6px 18px rgba(0,0,0,0.10)"/></a>
+      <a href="dashboard/N3.png"><img src="dashboard/N3.png" alt="N3" width="520" style="border-radius:8px; box-shadow:0 6px 18px rgba(0,0,0,0.10)"/></a>
       <p><strong>N3</strong><br/><small>Cartographie</small></p>
     </td>
     <td align="center">
-      <a href="dashboard/N4.png"><img src="dashboard/N4.png" alt="N4" width="320" style="border-radius:8px; box-shadow:0 6px 18px rgba(0,0,0,0.10)"/></a>
+      <a href="dashboard/N4.png"><img src="dashboard/N4.png" alt="N4" width="5520" style="border-radius:8px; box-shadow:0 6px 18px rgba(0,0,0,0.10)"/></a>
       <p><strong>N4</strong><br/><small>KPIs</small></p>
     </td>
   </tr>
