@@ -1,6 +1,7 @@
 # 👨‍💻 Portfolio Data Analyst - Ahmed Sefdine
 
-![Photo de profil](photo_id.jpeg) *[Remplacez par votre photo]*
+<img src="photo_id.jpeg" alt="Photo de profil" width="200"/>
+
 
 **Stage - Data & IA / Low Code - No Code**  
 📞 +221 77 808 09 42 | 📧 ahmed.sefdine@uadb.edu.sn | 📍 Liberté 6 extension, Dakar, Sénégal
